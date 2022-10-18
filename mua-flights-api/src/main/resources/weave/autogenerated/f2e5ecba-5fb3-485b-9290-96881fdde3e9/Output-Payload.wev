@@ -1,0 +1,9 @@
+%dw 2.0
+// namespaces
+ns ns0 http://soap.training.mulesoft.com/
+
+type auto_f2e5ecba_5fb3_485b_9290_96881fdde3e9_Output_Payload = {| ns0#listAllFlights: listAllFlights |} {"typeId": "#root:{http://soap.training.mulesoft.com/}listAllFlights"}
+type listAllFlights = {|  |} {"typeId": "{http://soap.training.mulesoft.com/}listAllFlights"}
+
+
+

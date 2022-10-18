@@ -1,0 +1,15 @@
+#HTTP Listener
+host:
+  port: "8081"
+  
+#HTTP Request American 
+requestAmerican:
+  host: "training4-american-ws.cloudhub.io"
+  
+#HTTP Request United
+requestUnited:
+  host: "mu.learn.mulesoft.com"
+  
+#Web Service Consume
+wsDelta:
+  location: "http://mu.learn.mulesoft.com/delta?wsdl"
